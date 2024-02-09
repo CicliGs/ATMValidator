@@ -1,0 +1,11 @@
+#map {
+    height: 500px;
+}
+
+.checkbox-group {
+    margin-bottom: 10px;
+}
+
+.checkbox-group label {
+    margin-right: 15px;
+}
